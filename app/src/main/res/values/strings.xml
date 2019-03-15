@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">fake login</string>
+    <string name="string_hint_text">Username</string>
+    <string name="string_pas">Pasword</string>
+</resources>
